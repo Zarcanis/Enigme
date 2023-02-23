@@ -1,0 +1,63 @@
+body {
+  background-image: url(parchment.jpg.jpg);
+  background-repeat: repeat;
+  color: #573D1C;
+  font-family: 'Garamond', serif;
+  font-size: 24px;
+  line-height: 1.5;
+}
+
+.parchemin-img {
+  display: block;
+  margin: auto;
+  max-width: 100%;
+  height: auto;
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  z-index: -1;
+}
+
+
+.container {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 50px 20px;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Goudy Old Style', Garamond, 'Times New Roman', serif;
+  font-weight: bold;
+}
+
+p, ul, ol {
+  margin-bottom: 30px;
+}
+
+ul, ol {
+  margin-left: 30px;
+}
+
+a {
+  color: #573D1C;
+  text-decoration: underline;
+}
+
+
+a:hover {
+  color: #0b071c;
+}
+
+blockquote {
+  margin: 30px 0;
+  padding: 20px;
+  border-left: 5px solid #573D1C;
+  background-color: #F5F5DC;
+  font-style: italic;
+}
+
+img {
+  max-width: 100%;
+}
