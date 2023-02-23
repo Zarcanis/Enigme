@@ -1,12 +1,12 @@
 // JavaScript
 const images = [
-  "pando1.jpg",
-  "pando2.jpg",
-  "pando3.jpg",
-  "pando4.jpg",
-  "pando5.jpg",
-  "pando6.jpg",
-  "pando7.jpg",
+  "pando1.png",
+  "pando2.png",
+  "pando3.png",
+  "pando4.png",
+  "pando5.png",
+  "pando6.png",
+  "pando7.png",
   // ...ajouter des chemins d'accès pour toutes les images du pool
 ];
 
